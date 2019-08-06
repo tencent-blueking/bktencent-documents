@@ -1,2 +1,2 @@
 # bktencent-documents
-蓝鲸官网[https://bk.tencent.com]文档仓库
+蓝鲸官网文档，更多信息请访问 https://bk.tencent.com
